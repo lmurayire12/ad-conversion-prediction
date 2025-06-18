@@ -27,8 +27,7 @@ The goal: compare different ML strategies—Neural Networks with optimization te
 The best F1 score was achieved by:
 - **Model 2**: Adam Optimizer, L2 regularization, Learning Rate = 0.001, with Early Stopping
 - **Model 4** (identical performance, different learning rate)
-- **Logistic Regression** surprisingly performed **equally well** with only L2 regularization and no tuning beyond solver choice.
-
+  
 ---
 
 ##  Neural Network vs Classical ML?
