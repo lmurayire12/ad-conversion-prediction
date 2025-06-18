@@ -18,6 +18,7 @@ The goal: compare different ML strategies—Neural Networks with optimization te
 | 2        | Adam           | L2               | 20     | Yes            | 3        | 0.001           | 0.8661   | 0.9257  | 1.0    | 0.8617    |
 | 3        | RMSprop        | L1               | 20     | No             | 3        | 0.0005          | 0.8267   | 0.8971  | 0.9056 | 0.8888    |
 | 4        | Adam           | None             | 20     | Yes            | 3        | 0.005           | 0.8346   | 0.9198  | 1.0    | 0.8346    |
+| 5	       |Liblinear       |	L2               | 200    | No             | 3        |  Default        | 0.9370   | 0.9565  | 0.9500 | 0.9633    |
 
 
 ---
