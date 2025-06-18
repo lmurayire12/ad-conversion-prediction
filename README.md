@@ -1,7 +1,7 @@
 
-# 🧠 Predicting Ad Conversion Using Neural Networks and Classical Machine Learning Models
+#  Predicting Ad Conversion Using Neural Networks and Classical Machine Learning Models
 
-## 📌 Problem Statement & Dataset
+## Problem Statement & Dataset
 
 In today’s e-commerce landscape, understanding which ads convert is critical to optimizing digital strategy.  
 This project explores how Machine Learning can predict **whether an ad will lead to conversion**, based on various features of Adidas product listings.  
