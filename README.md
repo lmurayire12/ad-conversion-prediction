@@ -44,5 +44,45 @@ This flexibility becomes critical with more complex, high-dimensional data.
 
 ---
 
+These can be loaded for further prediction or evaluation.
+
+---
+
+## 🚀 How to Run This Project
+
+To run the project on your local machine:
+
+1. **Clone the Repository**
+```bash
+git clone https://github.com/your-username/ad-conversion-prediction.git
+cd ad-conversion-prediction
+```
+
+2. **(Optional) Create a Virtual Environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+```
+
+3. **Install Dependencies**
+```bash
+pip install -r requirements.txt
+```
+
+4. **Launch the Notebook**
+```bash
+jupyter notebook
+```
+Open the notebook: `Summative_Intro_to_ml_[Lievin_Murayire_number]_assignment.ipynb`
+
+---
+
 ## 🎥 Video Presentation
+The accompanying 5-minute video explains:
+
+- My implementation logic
+- Parameter tuning
+- Libraries used
+- Results of each model (as seen in the table above)
+
 https://youtu.be/eDdwCyXkXvE
