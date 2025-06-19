@@ -1,5 +1,5 @@
 
-#  Predicting Ad Conversion Using Neural Networks and Classical Machine Learning Models
+#  AdIQ: Predicting Ad Conversion Using Neural Networks and Classical Machine Learning Models
 
 ## Problem Statement & Dataset
 
