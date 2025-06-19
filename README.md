@@ -6,7 +6,7 @@
 In today’s e-commerce landscape, understanding which ads convert is critical to optimizing digital strategy.  
 This project explores how Machine Learning can predict **whether an ad will lead to conversion**, based on various features of Adidas product listings.  
 We use a real-world dataset (`adidas_usa.csv`) with fields like price, availability, and product metadata to build our classification models.  
-The goal: compare different ML strategies—Neural Networks with optimization techniques vs. classical ML models like Logistic Regression.
+The goal: compare different ML strategies, Neural Networks with optimization techniques vs. classical ML models like Logistic Regression.
 
 ---
 
